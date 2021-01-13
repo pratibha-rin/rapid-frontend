@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+.button {
+    background-color: #0EB513;
+}
+
+.textbox{
+    border-radius: 3px;
+    border: solid 1px #A7A1A1;	
+}
+
+.textbox focus{
+	    border: solid 1px #0FB0F2;	
+}
+.textboxError{
+		    border: solid 1px #FF0206;	
+}
+
+.thankyou {
+	border-spacing: 15;
+	border: solid 1px #767171;
+	border-radius: 10px;
+	margin: 50px;
+}
+
+.thankyouText{
+	background: #A9F4B3;	
+}
+
+
