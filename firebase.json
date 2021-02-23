@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "/Users/pratibha/Desktop/react-native ",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
